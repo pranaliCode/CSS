@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+p { 
+color: rgba(149, 255, 0, 0.836); 
+} 
+/* element selector*/
+p{
+    color:aqua;
+}
+/*ID selector*/
+#header{
+    color:red
+}
+.box { 
+border: 2px solid yellow; 
+} 
+body{
+    background-color:rgb(170, 252, 192);
+}
