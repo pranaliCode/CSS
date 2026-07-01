@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: "Archivo Black", sans-serif;
+    color: rgb(80, 73, 77);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px gray;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(134, 59, 59);
+    font-style: oblique;
+    line-height: 1.5;
+    word-spacing: 3px;
+}
+
+a {
+text-decoration: none;
+font-size: 20px;
+}
+
+a:hover {
+    color: rgb(33, 255, 4);
+    font-weight: bold;
+}
